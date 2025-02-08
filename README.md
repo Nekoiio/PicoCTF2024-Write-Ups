@@ -9,3 +9,5 @@ Folders should be laid out the following way.
 /{Main Category}/{Challenge Name}/{Content}
 
 Don't forget to include a concise README.md for every challenge explaning your methodology.
+
+Note **This is a Clone of the original main i worked on with my teamate**
